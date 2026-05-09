@@ -1,1 +1,1 @@
-i love aws
+i love kubernetes,devops
